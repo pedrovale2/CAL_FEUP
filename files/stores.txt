@@ -1,0 +1,87 @@
+Casa dos Frangos
+24
+-----
+McDonalds
+5
+-----
+Pizzaria Ramos
+17
+-----
+Ancora Mar
+6
+-----
+BomApetite
+67
+-----
+Fortaleza
+93
+-----
+McDonalds Centro
+256
+-----
+Pizzaria Viana
+55
+-----
+Scala
+197
+-----
+Bar do Rio
+120
+-----
+Restaurante Portugues
+143
+-----
+McDonalds Litoral
+259
+-----
+Oceano
+40
+-----
+PizzaHut
+184
+-----
+Sandes e Baguetes
+132
+-----
+Chicken House
+253
+-----
+McDonalds Baixa
+163
+-----
+Restaurante Piolho
+240
+-----
+Mercado da Povoa
+267
+-----
+Bar da Praia
+43
+-----
+Pizzaria Da Foz
+170
+-----
+McDonalds Continental
+182
+-----
+Pizzaria Fernando
+142
+-----
+Ancora Fiesta
+273
+-----
+Restaurante Foz
+133
+-----
+Alvin e os Esquilos
+132
+-----
+McDonalds Special
+103
+-----
+Os Manos
+80
+-----
+100 Montaditos
+61
+-----
